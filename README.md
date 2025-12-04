@@ -15,7 +15,7 @@ Hi, I'm **Anthony Gagnon**, a physiology PhD Student at **Sherbrooke University*
 
 My research interests lies in understanding the relationship between the **brain's neurophysiology** 🧠, **cognition** 📝, and **behavior** 🤬. For more, check out my [website](https://anthonygagnon.ca)!.
 
-![gagnonanthony's Stats](https://github-readme-stats.vercel.app/api?username=gagnonanthony&theme=default&show_icons=true&hide_border=true&count_private=true)
+![gagnonanthony's Stats](https://github-readme-stats-swart-six-78.vercel.app/api?username=gagnonanthony&theme=default&show_icons=true&hide_border=true&count_private=true)
 
 <!--
 **gagnonanthony/gagnonanthony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
